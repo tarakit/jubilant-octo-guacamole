@@ -1,0 +1,3 @@
+
+
+git commit -m "Apply auto generate tables and migration for database schema" -m "- Implement the initial version of the user application: * Update profile * Create application(not fully connected to output yet) * Create application types, models, and define problems"
